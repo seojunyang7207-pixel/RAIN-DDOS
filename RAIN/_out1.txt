@@ -1,0 +1,119 @@
+
+
+
+
+    ____  ___    _____   __
+   / __ \/   |  /  _/ | / /
+  / /_/ / /| |  / //  |/ /
+ / _, _/ ___ |_/ // /|  /
+/_/ |_/_/  |_/___/_/ |_/
+           =>>  RAIN  DISTRIBUTED  DENIAL-OF-SERVICE  ATTACK  ENGINE  <<=
+    v2.4 SNAPSHOT   |   56+ ATTACK METHODS   |   AUTHORIZED SECURITY TESTING ONLY
+
+  ESTABLISHING C2 UPLINK...................... ONLINE
+  DECRYPTING PACKET PAYLOAD GRID.............. UNLOCKED
+  MOUNTING LAYER-7 / LAYER-4 LAUNCHERS........ 56+ UNITS
+  HANDSHAKE WITH ANONYMOUS GATEWAYS........... STANDBY
+  ALL SYSTEMS READY  --  STAND BY FOR ORDERS
+
+    RAIN  MAIN SCREEN
+  
+     [1] LAYER-7  À¥ °ø°Ý ½ÃÀÛ  (GET / POST / OVH / CFB ...)
+     [2] LAYER-4  ³×Æ®¿öÅ© °ø°Ý ½ÃÀÛ  (TCP / UDP / SYN / NTP ...)
+     [3] TOOLS  µµ±¸ ÄÜ¼Ö  (INFO / DNS / PING / CHECK / DSTAT)
+     [4] °ø°Ý ¹æ¹ý ÀüÃ¼ º¸±â (ALL METHODS)
+     [5] EXPERT  ¸í·É¾î Á÷Á¢ ½ÇÇà
+     [0] EXIT  Á¾·á
+
+
+  RAIN> ==> LAYER-7  WEB FLOOD  (À¥ °ø°Ý ¸¶¹ý»ç)
+
+  METHODS : APACHE, AVB, BOMB, BOT, BYPASS, CFB, CFBUAM, COOKIE, DGB, DOWNLOADER, DYN, EVEN, GET, GSB, HEAD, KILLER, NULL, OVH, POST, PPS, RHEX, SLOW, STOMP, STRESS, TOR, XMLRPC
+
+METHOD (±âº» GET) [GET] TARGET URL  (¿¹: https://example.com)SOCKS TYPE  0=ALL 1=HTTP 4=SOCKS4 5=SOCKS5 (±âº» 1) [1] THREADS  (½º·¹µå ¼ö, ±âº» 300) [300] RPC  (¿¬°á´ç ¿äÃ» ¼ö, ±âº» 1) [1] PROXY LIST  (ÆÄÀÏ¸í, ±âº» http.txt) [http.txt] DURATION  (°ø°Ý ½Ã°£ ÃÊ, ±âº» 60) [60] 
+  [°ø°Ý ¼³Á¤ È®ÀÎ]
+    METHOD    : GET
+    TARGET    : http://127.0.0.1:9
+    SOCKS     : 1    THREADS : 5
+    RPC       : 1    PROXY   : http.txt
+    DURATION  : 3 ÃÊ
+
+ENTER ·Î °ø°Ý ½ÃÀÛ, C ÀÔ·Â ½Ã Ãë¼Ò [] 
+[i] EXECUTING ATTACK MODULE .........
+OK
+
+[11:58:47 - INFO] [93mEmpty Proxy File, running flood without proxy[0m
+
+
+
+
+
+    ___  _______________   ________ __
+   /   |/_  __/_  __/   | / ____/ //_/
+  / /| | / /   / / / /| |/ /   / ,<
+ / ___ |/ /   / / / ___ / /___/ /| |
+/_/  |_/_/   /_/ /_/  |_\____/_/ |_|
+  [TARGET-SYSTEM]
+  
+    HOST     : 127.0.0.1
+    ADDRESS  : 127.0.0.1
+    PORT     : 9
+
+  [ATTACK-PROFILE]
+  
+    METHOD   : GET        (LAYER-7 / HTTP FLOOD)
+    THREADS  : 5
+    DURATION : 3 SEC
+    PROXY    : NONE (DIRECT)
+
+  [>] ARMING PACKET ENGINE ............ OK
+  [>] LOADING PAYLOAD MAGAZINES ....... OK
+  [>] WARMING UP CONNECTION POOL ...... OK
+  [>] SPINNING UP THREAD ARMY ........ 5 UNITS DEPLOYED
+  [>] SYNCHRONIZING FIRE CONTROL ...... LOCKED
+  ********  ALL ENGINES ENGAGED  --  UNLEASH THE STORM  ********
+
+[11:58:50 - INFO] [93mAttack Started to[94m 127.0.0.1[93m with[94m GET[93m method for[94m 3[93m seconds, threads:[94m 5[93m![0m
+[-] GET 127.0.0.1  [------------------]   0.0% PPS      0.0 BPS    0.0 B/s    0s/3s T:5            [\] GET 127.0.0.1  [######------------]  33.3% PPS      0.0 BPS    0.0 B/s    1s/3s T:5            [|] GET 127.0.0.1  [############------]  66.7% PPS      0.0 BPS    0.0 B/s    2s/3s T:5            
+
+
+
+
+
+    ___________   ___________ __  __
+   / ____/  _/ | / /  _/ ___// / / /
+  / /_   / //  |/ // / \__ \/ /_/ /
+ / __/ _/ // /|  // / ___/ / __  /
+/_/   /___/_/ |_/___//____/_/ /_/
+  ********  ALL ENGINES HALTED  --  ATTACK MISSION COMPLETE  ********
+
+[+] FIRE CONTROL        : ALL ENGINES HALTED
+[+] TOTAL PACKETS SENT  : 0
+[+] TOTAL BYTES DEPLOYED: 0 B
+[+] MISSION STATUS      : COMPLETE
+
+
+  [i] ENTER ¸¦ ´©¸£¸é ¸ÞÀÎ È­¸éÀ¸·Î µ¹¾Æ°©´Ï´Ù ...
+
+
+
+
+    ____  ___    _____   __
+   / __ \/   |  /  _/ | / /
+  / /_/ / /| |  / //  |/ /
+ / _, _/ ___ |_/ // /|  /
+/_/ |_/_/  |_/___/_/ |_/
+           =>>  RAIN  DISTRIBUTED  DENIAL-OF-SERVICE  ATTACK  ENGINE  <<=
+    v2.4 SNAPSHOT   |   56+ ATTACK METHODS   |   AUTHORIZED SECURITY TESTING ONLY
+
+    RAIN  MAIN SCREEN
+  
+     [1] LAYER-7  À¥ °ø°Ý ½ÃÀÛ  (GET / POST / OVH / CFB ...)
+     [2] LAYER-4  ³×Æ®¿öÅ© °ø°Ý ½ÃÀÛ  (TCP / UDP / SYN / NTP ...)
+     [3] TOOLS  µµ±¸ ÄÜ¼Ö  (INFO / DNS / PING / CHECK / DSTAT)
+     [4] °ø°Ý ¹æ¹ý ÀüÃ¼ º¸±â (ALL METHODS)
+     [5] EXPERT  ¸í·É¾î Á÷Á¢ ½ÇÇà
+     [0] EXIT  Á¾·á
+
+
+  RAIN> [!] SHUTTING DOWN ...
